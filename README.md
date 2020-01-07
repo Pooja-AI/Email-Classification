@@ -11,3 +11,8 @@
 - XGBoost
 - KNN
 - Logistic Regression
+
+## RestAPI
+- Flask
+- HTML templates
+- JS,CSS 
